@@ -1,0 +1,2137 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Com",
+				"COMPIT3D_SUCCESS"
+			],
+			[
+				"pro",
+				"project_id"
+			],
+			[
+				"Pro",
+				"ProductProjectActivityType"
+			],
+			[
+				"PRo",
+				"ProductProject"
+			],
+			[
+				"PROCESSIN",
+				"PROCESSING_ERROR_COMPIT3D"
+			],
+			[
+				"proj",
+				"project_id"
+			],
+			[
+				"messa",
+				"message1"
+			],
+			[
+				"mess",
+				"message_body"
+			],
+			[
+				"mes",
+				"message_body"
+			],
+			[
+				"project",
+				"project_product"
+			],
+			[
+				"down",
+				"download_assets_for_starting_sku"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"image",
+				"image_file"
+			],
+			[
+				"set",
+				"set_jpeg_dpi_headers"
+			],
+			[
+				"s3",
+				"S3_SECRET_KEY"
+			],
+			[
+				"product",
+				"product_kind_abbr"
+			],
+			[
+				"query_by",
+				"query_by_abbreviation"
+			],
+			[
+				"shape",
+				"shape_and_dimension"
+			],
+			[
+				"assrt",
+				"assertEqual"
+			],
+			[
+				"produ_",
+				"product_dimensions"
+			],
+			[
+				"produc",
+				"product_project"
+			],
+			[
+				"Product",
+				"ProductKind"
+			],
+			[
+				"comm",
+				"community_designers"
+			],
+			[
+				"dim",
+				"dim_list"
+			],
+			[
+				"FABR",
+				"FABRIC_TYPES"
+			],
+			[
+				"PRodu",
+				"ProductFormFactor"
+			],
+			[
+				"spe",
+				"special_requests"
+			],
+			[
+				"form",
+				"form_factor"
+			],
+			[
+				"prod",
+				"product_kind_abbrevs"
+			],
+			[
+				"desi",
+				"design_id"
+			],
+			[
+				"FILE",
+				"FILE_REQUEST_TYPE_FABRIC"
+			],
+			[
+				"mock_get",
+				"mock__get_existing_dim_ids"
+			],
+			[
+				"assert",
+				"assertEqual"
+			],
+			[
+				"test",
+				"test_pk_abbrev"
+			],
+			[
+				"buil",
+				"build_dim_id_dict_fallback"
+			],
+			[
+				"build_dim_id_dict_",
+				"build_dim_id_dict_art"
+			],
+			[
+				"pk_abb",
+				"pk_abbrev"
+			],
+			[
+				"Produc",
+				"ProductProject"
+			],
+			[
+				"mako",
+				"mako_context"
+			],
+			[
+				"home",
+				"home_decor_pdp_preview"
+			],
+			[
+				"Sub",
+				"SUBMIT_TO_COMPIT"
+			],
+			[
+				"Pr",
+				"PRODUCT_LAUNCH"
+			],
+			[
+				"CD",
+				"CDSTool"
+			],
+			[
+				"CDST",
+				"CDS_TOOL_POST"
+			],
+			[
+				"filn",
+				"filenames"
+			],
+			[
+				"err",
+				"errored_skus"
+			],
+			[
+				"error",
+				"errored_mcd_ids"
+			],
+			[
+				"num",
+				"num_initial_rows"
+			],
+			[
+				"mock",
+				"mock_cds_list"
+			],
+			[
+				"ass",
+				"assertEquals"
+			],
+			[
+				"cds",
+				"cds_list"
+			],
+			[
+				"create",
+				"create_and_insert_cds_rows"
+			],
+			[
+				"crea",
+				"create_and_insert_cds_rows"
+			],
+			[
+				"valida",
+				"validate_cds_list"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"test_",
+				"test_cds_list"
+			],
+			[
+				"is_",
+				"is_active"
+			],
+			[
+				"is_va",
+				"is_valid_product"
+			],
+			[
+				"inva",
+				"invalid_mcd"
+			],
+			[
+				"com",
+				"community_design"
+			],
+			[
+				"commun",
+				"community_design"
+			],
+			[
+				"stra",
+				"stacktrace_list"
+			],
+			[
+				"appe",
+				"appendErrors"
+			],
+			[
+				"ero",
+				"error_list"
+			],
+			[
+				"er",
+				"errored_skus"
+			],
+			[
+				"val",
+				"validations"
+			],
+			[
+				"minted",
+				"minted_community_design_id"
+			],
+			[
+				"store",
+				"storefront_priority"
+			],
+			[
+				"sto",
+				"storefront_hidden"
+			],
+			[
+				"minted_comm",
+				"minted_community_design_sku"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"cd",
+				"cds_list"
+			],
+			[
+				"errr",
+				"errored_mcd_ids"
+			],
+			[
+				"errored",
+				"errored_mcd_ids"
+			],
+			[
+				"is_val",
+				"is_valid_design"
+			],
+			[
+				"mcd",
+				"mcd_ids"
+			],
+			[
+				"cds_",
+				"cds_list"
+			],
+			[
+				"forma",
+				"formattedLine"
+			],
+			[
+				"get",
+				"getFormDataArray"
+			],
+			[
+				"line",
+				"lineArray"
+			],
+			[
+				"minted_",
+				"minted_community_designs"
+			],
+			[
+				"Comu",
+				"CommunityDesignSku"
+			],
+			[
+				"dump",
+				"dump_old"
+			],
+			[
+				"def",
+				"default_flow_style"
+			],
+			[
+				"yaml",
+				"yaml_dict"
+			],
+			[
+				"fil",
+				"filenames"
+			],
+			[
+				"compit",
+				"compit_response"
+			],
+			[
+				"fro",
+				"frozenset"
+			],
+			[
+				"im",
+				"is_marketplace"
+			],
+			[
+				"json",
+				"jsonmessage"
+			],
+			[
+				"msg",
+				"msg"
+			],
+			[
+				"PRO",
+				"PROCESSING_COMPIT_READY"
+			],
+			[
+				"float",
+				"floatL"
+			],
+			[
+				"prepre",
+				"prepress_jpeg_s3_key"
+			],
+			[
+				"update",
+				"updated_at"
+			],
+			[
+				"artwork",
+				"artwork_s3_key"
+			],
+			[
+				"prep",
+				"prepress_jpeg_s3_key"
+			],
+			[
+				"expec",
+				"expected_design"
+			],
+			[
+				"Comm",
+				"CommunityDesignSku"
+			],
+			[
+				"bran",
+				"brand_color"
+			],
+			[
+				"branc",
+				"brand_color_kind_id"
+			],
+			[
+				"Produ",
+				"ProductPhotoViewCode"
+			],
+			[
+				"some_",
+				"some_id"
+			],
+			[
+				"mock_get_",
+				"mock_get_image_url_new"
+			],
+			[
+				"enh",
+				"enhanced_image_id"
+			],
+			[
+				"Prod",
+				"ProductAttributeKinds"
+			],
+			[
+				"seas",
+				"DESCRIPTION_SEASON"
+			],
+			[
+				"holid",
+				"DESCRIPTION_HOLIDAY"
+			],
+			[
+				"occa",
+				"DESCRIPTION_OCCASION"
+			],
+			[
+				"theme",
+				"DESCRIPTION_THEME"
+			],
+			[
+				"age",
+				"DESCRIPTION_AGE"
+			],
+			[
+				"patter",
+				"DESCRIPTION_PATTERN"
+			],
+			[
+				"TEMPLATE",
+				"DESCRIPTION_TEMPLATE_HEIGHT"
+			],
+			[
+				"HEIGH",
+				"DESCRIPTION_HEIGHT"
+			],
+			[
+				"WIDTH",
+				"DESCRIPTION_WIDTH"
+			],
+			[
+				"DIMENS",
+				"DESCRIPTION_DIMENSIONS"
+			],
+			[
+				"ORI",
+				"DESCRIPTION_ORIENTATION"
+			],
+			[
+				"FORM",
+				"DESCRIPTION_FORMAT"
+			],
+			[
+				"ROUND",
+				"DESCRIPTION_ROUNDED_CORNERS"
+			],
+			[
+				"PAPER",
+				"DESCRIPTION_PAPER_WEIGHT"
+			],
+			[
+				"des",
+				"descriptions"
+			],
+			[
+				"createhome",
+				"create_home_decor_product"
+			],
+			[
+				"community",
+				"community_design_skus"
+			],
+			[
+				"hd_",
+				"hd_dimensions"
+			],
+			[
+				"bread",
+				"breadcrumb_result"
+			],
+			[
+				"collec",
+				"collection"
+			],
+			[
+				"product_kin",
+				"product_kinds"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Unix",
+				"name": "from coinbase.wallet.client import Client"
+			}
+		},
+		{
+			"contents": "import os\nimport yaml\n\nwith open('access_keys.yaml', 'r') as f:\n  COINBASE_API_KEY = keys.get('coinbase_api_key')\n  COINBASE_API_SECRET = keys.get('coinbase_api_secret')\n\ndef coinbase_api_key():\n  \n",
+			"file": "config.py",
+			"file_size": 196,
+			"file_write_time": 1455429992000000,
+			"settings":
+			{
+				"buffer_size": 198,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "access_keys.yaml",
+			"settings":
+			{
+				"buffer_size": 88,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"BLAME",
+				"Git: Blame"
+			],
+			[
+				"hist",
+				"Git: Commit history"
+			],
+			[
+				"histor",
+				"Git: Commit history"
+			],
+			[
+				"blme",
+				"Git: Blame"
+			],
+			[
+				"blae",
+				"Git: Blame"
+			],
+			[
+				"blane",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"BLAM",
+				"Git: Blame"
+			],
+			[
+				"his",
+				"Git: Commit history"
+			],
+			[
+				"histo",
+				"Git: Commit history"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mak",
+				"Set Syntax: HTML (Mako)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"mako",
+				"Set Syntax: HTML (Mako)"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"histr",
+				"Git: Commit history"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"history",
+				"Git: Commit history"
+			],
+			[
+				"bale",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"",
+				"Git: Graph All"
+			],
+			[
+				"b",
+				"Git: Blame"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contro",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/johnshen/personal/coinbase-sandbox/access_keys.yaml",
+		"/Users/johnshen/personal/coinbase-sandbox/.gitignore",
+		"/Users/johnshen/personal/coinbase-sandbox/README.md",
+		"/Users/johnshen/src/minted/src/py/minted/util/aws.py",
+		"/Users/johnshen/src/minted/fabconfig/minted_environments/test.yaml",
+		"/Users/johnshen/src/minted/src/py/minted/templates/prod_tools/multirender.mako",
+		"/Users/johnshen/src/minted/src/py/minted/web/views/prod_tools.py",
+		"/Users/johnshen/src/minted/src/py/minted/batch/compit3d_result_processor.py",
+		"/Users/johnshen/src/minted/src/py/minted/tools/compit.py",
+		"/Users/johnshen/src/minted/src/py/minted/web/views/selflaunch/importer.py",
+		"/Users/johnshen/src/minted/src/py/minted/adobe/illustrator.py",
+		"/Users/johnshen/src/minted/fabconfig/minted_environments/sandbox.yaml",
+		"/Users/johnshen/src/minted/fab/common/config.py",
+		"/Users/johnshen/src/minted/fab/common/ec2.py",
+		"/Users/johnshen/src/minted/fab/puppet.py",
+		"/Users/johnshen/src/minted/fabconfig/minted_environments/di-qa2.yaml",
+		"/Users/johnshen/src/minted/fab/ec2/master-compit-precise-64bit-hvm.yaml",
+		"/Users/johnshen/src/minted/src/py/minted/model/product.py",
+		"/Users/johnshen/src/minted/src/py/minted/web/views/product_details/art.py",
+		"/Users/johnshen/src/minted/drupal/minted_api/web/templates/browse.html",
+		"/Users/johnshen/src/minted/src/py/minted/logic/printer/apis/minted_api.py",
+		"/Users/johnshen/src/minted/src/py/minted/model/product_project.py",
+		"/Users/johnshen/src/minted/src/py/minted/logic/selflaunch/project_writer.py",
+		"/Users/johnshen/src/minted/fabconfig/minted_environments/stage.yaml",
+		"/Users/johnshen/src/minted/src/py/minted/logic/selflaunch/compit_service.py",
+		"/Users/johnshen/src/minted/src/py/minted/tests/logic/compit/bridge_test.py",
+		"/Users/johnshen/src/minted/fabconfig/minted_teams/dev-adrian.yaml",
+		"/Users/johnshen/src/minted/src/py/minted/tests/batch/compit3d_result_processor_test.py",
+		"/Users/johnshen/src/minted/src/py/minted/model/frame_option.py",
+		"/Users/johnshen/src/minted/src/py/minted/templates/product_details/home_decor_pdp.mako",
+		"/Users/johnshen/src/minted/src/py/minted/web/views/product_details/home_decor_pdp.py",
+		"/Users/johnshen/src/minted/src/py/minted/logic/cu3/saved_design_pricing_engine.py",
+		"/Users/johnshen/src/minted/package.json",
+		"/Users/johnshen/src/minted/src/py/minted/logic/cu3/legacy_pricing_engine.py",
+		"/Users/johnshen/src/minted/src/py/minted/web/api_legacy/blog.py",
+		"/Users/johnshen/src/minted/src/py/minted/logic/selflaunch/metrics.py",
+		"/Users/johnshen/src/minted/src/py/minted/batch/ready_for_compit_processor.py",
+		"/Users/johnshen/src/minted/fab/compit.py",
+		"/Users/johnshen/src/minted/src/py/minted/model/product_project_activity_type.py",
+		"/Users/johnshen/src/minted/src/py/minted/logic/selflaunch/state_machine.py",
+		"/Users/johnshen/src/minted/src/py/minted/model/product_project_activity.py",
+		"/Users/johnshen/src/minted/src/py/minted/logic/selflaunch/hansel_service.py",
+		"/Users/johnshen/src/minted/src/py/minted/batch/ready_for_compit3d_processor.py",
+		"/Users/johnshen/src/minted/src/py/minted/batch/ready_for_hansel_processor.py",
+		"/Users/johnshen/src/minted/src/py/minted/tests/integration/logic/selflaunch/hansel_service_test.py",
+		"/Users/johnshen/src/minted/src/py/minted/tests/logic/selflaunch/hansel_service_test.py",
+		"/Users/johnshen/src/minted/src/py/minted/logic/selflaunch/emailer.py",
+		"/Users/johnshen/src/minted/src/py/minted/logic/selflaunch/product_launch_timing_pb2.py",
+		"/Users/johnshen/src/minted/src/py/minted/tests/fixtures/product_project.py",
+		"/Users/johnshen/src/minted/src/py/minted/batch/monitor_state_machine_activity.py",
+		"/Users/johnshen/src/minted/src/py/minted/tools/disable_frame_option_for_dimension.py",
+		"/Users/johnshen/src/minted/src/py/minted/util/jobs_client.py",
+		"/Users/johnshen/src/minted/fabconfig/minted_environments/prod.yaml",
+		"/Users/johnshen/src/minted/src/py/minted/templates/selflaunch/file_upload.mako",
+		"/Users/johnshen/src/minted/src/py/minted/tools/switch_project_state.py",
+		"/Users/johnshen/src/minted/src/py/minted/tests/unit/web/views/product_details/home_decor_pdp_test.py",
+		"/Users/johnshen/Desktop/project_state.txt",
+		"/Users/johnshen/src/minted/src/py/minted/model/crowdlaunch_file_config.yml",
+		"/Users/johnshen/src/minted/innkeeper/src/minted/web/api/product_kind/model/product_kind.py",
+		"/Users/johnshen/src/minted/src/py/minted/tools/home_decor_backfiller.py",
+		"/Users/johnshen/src/minted/src/py/minted/logic/product.py",
+		"/Users/johnshen/src/minted/src/py/minted/model/product_attribute_kind.py",
+		"/Users/johnshen/src/minted/src/py/minted/logic/selflaunch/product_attribute_writer.py",
+		"/Users/johnshen/src/minted/src/py/minted/model/product_kind_config.yml",
+		"/Users/johnshen/src/minted/src/py/minted/templates/selflaunch/prepress_files.mako",
+		"/Users/johnshen/src/minted/innkeeper/src/minted/web/api/product_kind/model/product_attribute_kind.py",
+		"/Users/johnshen/src/minted/config/tests/etc/www.yml",
+		"/Users/johnshen/src/minted/config/tests/etc/19520 8800 9000",
+		"/Users/johnshen/src/minted/fabconfig/minted_environments/qa.yaml",
+		"/Users/johnshen/src/minted/fabconfig/common.yaml",
+		"/Users/johnshen/src/minted/fabconfig/minted_environments/qa3.yaml",
+		"/Users/johnshen/src/minted/drupal/static/src/js/view/crowd_launch/default_file_upload.js",
+		"/Users/johnshen/src/minted/fabconfig/minted_environments/qa_test.yaml",
+		"/Users/johnshen/src/minted/src/py/minted/templates/selflaunch/file_upload_overview.mako",
+		"/Users/johnshen/src/minted/src/py/minted/templates/product_details/art.mako",
+		"/Users/johnshen/src/minted/src/py/minted/logic/product_details/art.py",
+		"/Users/johnshen/src/minted/src/py/minted/templates/selflaunch/qc.mako",
+		"/Users/johnshen/src/minted/src/py/minted/web/views/admin/url_paths.py",
+		"/Users/johnshen/src/minted/drupal/themes/minted/fonts/NewsGothicStd-Oblique.css",
+		"/Users/johnshen/src/minted/src/py/minted/model/product_attribute.py",
+		"/Users/johnshen/src/minted/src/py/minted/logic/product_kind_tool.py",
+		"/Users/johnshen/src/minted/src/py/minted/model/product_kind_attribute.py",
+		"/Users/johnshen/src/minted/src/py/minted/tests/templates/product_details/home_decor_test.py",
+		"/Users/johnshen/src/minted/src/py/minted/adobe/jobs/hansel.py",
+		"/Users/johnshen/src/minted/src/py/minted/templates/selflaunch/qc_dashboard.mako",
+		"/Users/johnshen/src/minted/src/py/minted/tests/web/views/selflaunch/file_request_test.py",
+		"/Users/johnshen/src/minted/src/py/minted/templates/selflaunch/qc_review.mako",
+		"/Users/johnshen/src/minted/src/py/minted/model/as_is_product_file.py",
+		"/Users/johnshen/src/minted/compit_3d/photoshop_action/base_file_context.py",
+		"/Users/johnshen/Desktop/cp_script",
+		"/Users/johnshen/src/minted/src/py/minted/tools/revert_s3_keys_to_previous_version.py",
+		"/Users/johnshen/src/minted/src/py/minted/logic/printer/proof_file_service.py",
+		"/Users/johnshen/src/minted/compit_3d/photoshop_action/s3_asset_grabber.py",
+		"/Users/johnshen/src/minted/compit_3d/photoshop_action/config/__init__.py",
+		"/Users/johnshen/src/minted/src/py/minted/tools/validate_s3_images_for_compit_3d.py",
+		"/Users/johnshen/src/minted/compit_3d/photoshop_action/s3_util.py",
+		"/Users/johnshen/src/minted/compit_3d/photoshop_action/config/conf.yaml",
+		"/Users/johnshen/src/minted/src/py/minted/tools/sync_colorways.py",
+		"/Users/johnshen/src/minted/src/py/minted/config/s3config.py",
+		"/Users/johnshen/src/minted/requirements.txt",
+		"/Users/johnshen/src/minted/src/py/minted/tools/validate_s3_images.py",
+		"/Users/johnshen/src/minted/src/py/minted/tools/syncartwork.py",
+		"/Users/johnshen/src/minted/src/py/minted/util/opts.py",
+		"/Users/johnshen/src/minted/drupal/static/src/js/model/product_project.js",
+		"/Users/johnshen/src/minted/src/py/minted/model/constants.py",
+		"/Users/johnshen/src/minted/src/py/minted/logic/sku_generator.py",
+		"/Users/johnshen/src/minted/src/py/minted/tools/as_is_product_file_update.py",
+		"/Users/johnshen/src/minted/schema/ad-hoc/cm/migration_cm_00036.sql",
+		"/Users/johnshen/src/minted/src/py/minted/tests/web/views/selflaunch/importer_test.py",
+		"/Users/johnshen/src/minted/src/py/minted/tests/logic/selflaunch_test.py",
+		"/Users/johnshen/src/minted/src/py/minted/tests/logic/validate/default_search_visible_validator_test.py",
+		"/Users/johnshen/src/minted/fab/package/build.py",
+		"/Users/johnshen/src/minted/src/py/minted/logic/community/storefront.py",
+		"/Users/johnshen/src/minted/src/py/minted/web/views/admin/community_design_sku_tool.py",
+		"/Users/johnshen/src/minted/src/py/minted/templates/admin/commissioned_design_form.mako",
+		"/Users/johnshen/src/minted/src/py/minted/web/views/admin/commissioned_design_form.py",
+		"/Users/johnshen/src/minted/src/py/minted/model/user.py",
+		"/Users/johnshen/src/minted/src/py/minted/model/community_designs.py",
+		"/Users/johnshen/src/minted/src/py/minted/web/views/selflaunch/file_request.py",
+		"/Users/johnshen/src/minted/src/py/minted/logic/state_processor/po/proof_completed.py",
+		"/Users/johnshen/src/minted/schema/ad-hoc/cm/migration_cm_00034.sql",
+		"/Users/johnshen/src/minted/schema/migrations/downgrades/d_migration_1509.sql",
+		"/Users/johnshen/src/minted/src/py/minted/tests/logic/selflaunch/project_writer_test.py",
+		"/Users/johnshen/src/minted/src/py/minted/tests/unit/web/views/selflaunch/importer_test.py",
+		"/Users/johnshen/src/minted/src/py/minted/tests/logic/data_roll/importer_test.py",
+		"/Users/johnshen/src/minted/src/py/minted/model/product_kind.py",
+		"/Users/johnshen/src/minted/src/py/minted/model/community_designers.py",
+		"/Users/johnshen/src/minted/src/py/minted/model/community_contests.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.js, *.html, *.mako, *.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*, */tools/*",
+			"*.js, *.html, *.yml, *.yaml, *.mako, *.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*, */tools/*",
+			"*.js, *.mako, *.yml, *.yaml, *.mako, *.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*, */tools/*",
+			"*.yml, *.yaml, *.mako, *.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*, */tools/*",
+			"*.yml, *.yaml, *.mako, *.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.yml, *.yaml, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.yml, *.yaml -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*, */py/minted/tools/*.py",
+			"*.py, *.yml, *.yaml, *.php, *.mako, *.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*, */py/minted/tools/*",
+			"*.py, *.yml, *.yaml, *.php, *.mako, *.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.yml, *.yaml, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.yaml, *.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.yaml, *.yml, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.sql, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.mako, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.sql, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.html, *.mako, *.js, *.yml, *.yaml, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.html, *.mako, *.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.html, *.mako, *.js,-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.yml, *.yaml, *.html, *.mako, *.js,-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.html, *.mako, *.js,-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.html, *.mako, *.js,-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.html, *.mako, *.js,-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.html, *.mako, *.js,-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.html, *.mako, *.js,-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*.py, -*.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.sql, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.mako, *.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.mako, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.sql, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.mako, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.mako, *.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.mako, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.yml, *.yaml, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.php, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.sql, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"/Users/johnshen/src/minted/new_layouts.yaml, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"/Users/johnshen/src/minted/new_layouts2.yaml, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.mako, *.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.conf, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"/Users/johnshen/src/minted/new_layouts.yaml, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.conf, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"/Users/johnshen/src/minted/new_layouts.yaml, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.yml, *.yaml, *.py, *.mako, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.yml, *.yaml, *.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.yml, *.sql, *.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.sql, *.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			" -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.conf, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.conf -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.sql, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.mako, *.js, *.html, *.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.mako, *.js, *.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.mako, *.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.mako, *.conf, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.mako, *.php, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.mako, *.sql, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.mako, *.php, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.js, *.mako, *.php, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.yml, *.yaml, *.py, *.js, *.mako, *.php, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.js, *.mako, *.php, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.js, *.mako, *.php -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.js, *.mako, *.html, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.yml, *.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*/tests/*, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*/test/*, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*/tests/*, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*/tests/, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, */tests/, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, /tests/, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, */tests/, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, */tests/*, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*/crontab, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.yaml, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.yaml, *.yml, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.mako, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.sql, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.yaml, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			" *.yaml, *.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			" *.py, *.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.sql, *.py, *.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.sqlm *.py, *.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"*.py, *.js, -*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*",
+			"-*/blog/*, -*/forum/*, -*/venv-innkeeper/*, -*/node_modules/*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"environ.get",
+			"environ",
+			"s3_",
+			"os.path",
+			"s3_conn",
+			"S3FileCache",
+			"s3filecache",
+			"empty",
+			"delete",
+			"CACHE_DIR",
+			"No previously cached file",
+			"render_sku_from_job",
+			"multirender",
+			"submitArea",
+			"submit",
+			"prod_tools",
+			"index.mako",
+			"product image creation tool",
+			"send_to_compi",
+			"version",
+			"Unexpected message version",
+			"	Unexpected message version",
+			"update_scaling_policies",
+			"terminating",
+			"Updating Scaling Policie",
+			"create_scaling_policies",
+			"delete_scaling_policies",
+			"Updating Scaling Policie",
+			"update_asg",
+			"generate_launch_conf",
+			"generate_launch_conf'",
+			"generate_launch_conf",
+			"delete\n",
+			"delete",
+			"Master for role",
+			"update_scaling_policies",
+			"create_scaling_policies",
+			"Scaling down alarms",
+			"REMAPPED_REGIONS",
+			"env",
+			"role",
+			"team",
+			"REMAPPED_REGIONS",
+			"region",
+			"get_instances",
+			"aws_role_compit",
+			"env_test_arizona",
+			"aws_role_compit",
+			"compit",
+			"aws_role_compit",
+			"test.ya",
+			"aws_role_compit",
+			"_COMPIT_AUTOSCALING_GROUPS",
+			"stale",
+			"ec2_settings",
+			"instance_data",
+			"start_ec2_instance",
+			"load_ec2_settings",
+			"EC2Config",
+			"load_ec2_settings",
+			"start_ec2_instance",
+			"customization options",
+			"handwritten signature",
+			"artist signature type",
+			"handwritten signature",
+			"check_user_has_signature_set",
+			"artist_signature_type",
+			"is_limited_edition_product",
+			"FLAG_IS_LIMITED_EDITION",
+			"limited_edition",
+			"signatureUrl",
+			"start_ec2_instance",
+			"wait_for_status",
+			"connection",
+			"wait_for_status",
+			"update",
+			"wait_for_status",
+			"run_instances",
+			"def run_instances",
+			"boto",
+			"connection_stale_duration",
+			"http_socket_timeout",
+			"_validate_can_backfill_for_home_decor",
+			"mock_validate",
+			"_create_hd_products",
+			"update_",
+			"_COMPIT_AUTOSCALING_GROUPS",
+			"boto",
+			"task",
+			"update_as",
+			"_create_hd_products",
+			"compit-te",
+			"get_user_data",
+			"AWS_USER_DATA_URL",
+			"get_user_data",
+			"is reading from",
+			"hansel_sqs_queue",
+			"hansel",
+			"sqs_queue",
+			"queue_type",
+			"bridge",
+			"compit_bridge",
+			"bridge",
+			"get_sqs_queue_name",
+			"get_sqs_queue",
+			"aws_role)",
+			"get_sqs_queue",
+			"aws_role_compit",
+			"_aws_role_compit",
+			"bridge",
+			"aws_role",
+			"aws_role_compit",
+			"compit",
+			"compit_sqs_queue",
+			"compit_result_sqs_queue",
+			"compit_selflaunch_sqs_queue",
+			"compit_selflaunch_result_sqs_queue",
+			"bridge",
+			"viewqueue_helper",
+			"raise",
+			"self.doc",
+			"self.doc.appli",
+			"1",
+			"COMPIT3D_RESPONSE_IGNORED",
+			"pdp",
+			"get_price_map_for_tier_sku",
+			"get_format_options",
+			"get_price_map_for_product"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"non_custom_file_request",
+			"send_non_custom_file_request_email",
+			"project.get_product_kind_description()",
+			"M.Utility.CommunityDesignSkuTool",
+			"",
+			"Compit3D",
+			"COMPIT3D",
+			"compit_3d",
+			"PROCESSING_COMPIT3D",
+			"PROCESSING_COMPIT_READY",
+			"\\\"",
+			"get_home_decor_primary_view_code_from_display_name",
+			"get_primary_view_code",
+			"artful_dodge",
+			"get_default_paper_option_name",
+			"\"",
+			"FORM_FACTOR_SQUARE",
+			"FORM_FACTOR_PORTRAIT",
+			"FORM_FACTOR_LANDSCAPE",
+			"ProductDimension.form_factor",
+			"dimension.form_factor",
+			"FORM_FACTOR_SQUARE",
+			"FORM_FACTOR_PORTRAIT",
+			"FORM_FACTOR_LANDSCAPE",
+			"ProductFormFactor",
+			"sub_nav_filter",
+			"subnav_filter",
+			"SubNavFilter",
+			"subNavFilter",
+			"UsersRoles",
+			"MintedRole"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "from coinbase.wallet.client import Client",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"esnext": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501",
+								"E111",
+								"E121",
+								"E128"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config.py",
+					"settings":
+					{
+						"buffer_size": 198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"esnext": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501",
+								"E111",
+								"E121",
+								"E128"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "access_keys.yaml",
+					"settings":
+					{
+						"buffer_size": 88,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								16
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"esnext": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501",
+								"E111",
+								"E121",
+								"E128"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sync",
+				"src/py/minted/tools/sync_colorways.py"
+			],
+			[
+				"bridge",
+				"src/py/minted/logic/compit/bridge.py"
+			],
+			[
+				"compit.py",
+				"src/py/minted/tools/compit.py"
+			],
+			[
+				"ec2.py",
+				"fab/common/ec2.py"
+			],
+			[
+				"config.py",
+				"fab/common/config.py"
+			],
+			[
+				"commonec2",
+				"fab/common/ec2.py"
+			],
+			[
+				"di-qa2",
+				"fabconfig/minted_environments/di-qa2.yaml"
+			],
+			[
+				"product",
+				"src/py/minted/model/product.py"
+			],
+			[
+				"project.py",
+				"src/py/minted/model/product_project.py"
+			],
+			[
+				"fabcompit",
+				"fab/compit.py"
+			],
+			[
+				"fabcompi",
+				"fab/compit.py"
+			],
+			[
+				"aws.py",
+				"src/py/minted/util/aws.py"
+			],
+			[
+				"mintedtoolscompit",
+				"src/py/minted/tools/compit.py"
+			],
+			[
+				"stage.y",
+				"fabconfig/minted_environments/stage.yaml"
+			],
+			[
+				"sandb",
+				"fabconfig/minted_environments/sandbox.yaml"
+			],
+			[
+				"logiccompitbr",
+				"src/py/minted/logic/compit/bridge.py"
+			],
+			[
+				"test.yam",
+				"fabconfig/minted_environments/test.yaml"
+			],
+			[
+				"compit",
+				"src/py/minted/tools/compit.py"
+			],
+			[
+				"illustr",
+				"src/py/minted/adobe/illustrator.py"
+			],
+			[
+				"adrian",
+				"fabconfig/minted_teams/dev-adrian.yaml"
+			],
+			[
+				"compitresultpro",
+				"src/py/minted/batch/compit3d_result_processor.py"
+			],
+			[
+				"compitrest",
+				"src/py/minted/tests/batch/compit3d_result_processor_test.py"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"product.py",
+				"src/py/minted/model/product.py"
+			],
+			[
+				"legacypri",
+				"src/py/minted/logic/cu3/legacy_pricing_engine.py"
+			],
+			[
+				"saveddesigpric",
+				"src/py/minted/logic/cu3/saved_design_pricing_engine.py"
+			],
+			[
+				"home_decorpdpma",
+				"src/py/minted/templates/product_details/home_decor_pdp.mako"
+			],
+			[
+				"home_decorpdp",
+				"src/py/minted/web/views/product_details/home_decor_pdp.py"
+			],
+			[
+				"compitresultre",
+				"src/py/minted/batch/compit3d_result_processor.py"
+			],
+			[
+				"prodprojact",
+				"src/py/minted/model/product_project_activity_type.py"
+			],
+			[
+				"prodprojacti",
+				"src/py/minted/model/product_project_activity.py"
+			],
+			[
+				"hanselserv",
+				"src/py/minted/logic/selflaunch/hansel_service.py"
+			],
+			[
+				"hansserte",
+				"src/py/minted/tests/integration/logic/selflaunch/hansel_service_test.py"
+			],
+			[
+				"hanselservetes",
+				"src/py/minted/tests/logic/selflaunch/hansel_service_test.py"
+			],
+			[
+				"compitresult",
+				"src/py/minted/batch/compit3d_result_processor.py"
+			],
+			[
+				"readycompit3d",
+				"src/py/minted/batch/ready_for_compit3d_processor.py"
+			],
+			[
+				"prodprojacttyp",
+				"src/py/minted/model/product_project_activity_type.py"
+			],
+			[
+				"readyforcom",
+				"src/py/minted/batch/ready_for_compit_processor.py"
+			],
+			[
+				"readyforhan",
+				"src/py/minted/batch/ready_for_hansel_processor.py"
+			],
+			[
+				"productprojectact",
+				"src/py/minted/model/product_project_activity.py"
+			],
+			[
+				"prdprojacttype",
+				"src/py/minted/model/product_project_activity_type.py"
+			],
+			[
+				"produprojact",
+				"src/py/minted/model/product_project_activity.py"
+			],
+			[
+				"productlaunchtimi",
+				"src/py/minted/logic/selflaunch/product_launch_timing_pb2.py"
+			],
+			[
+				"monitorstate",
+				"src/py/minted/batch/monitor_state_machine_activity.py"
+			],
+			[
+				"productlaunchti",
+				"src/py/minted/logic/selflaunch/product_launch_timing_pb2.py"
+			],
+			[
+				"selflaunchmetrics",
+				"src/py/minted/logic/selflaunch/metrics.py"
+			],
+			[
+				"fixproduct_project",
+				"src/py/minted/tests/fixtures/product_project.py"
+			],
+			[
+				"compit3d",
+				"src/py/minted/tests/batch/compit3d_result_processor_test.py"
+			],
+			[
+				"prodpro",
+				"src/py/minted/model/product_project.py"
+			],
+			[
+				"prodproje",
+				"src/py/minted/model/product_project.py"
+			],
+			[
+				"importer",
+				"src/py/minted/web/views/selflaunch/importer.py"
+			],
+			[
+				"backfiller",
+				"src/py/minted/tools/home_decor_backfiller.py"
+			],
+			[
+				"utiljobs",
+				"src/py/minted/util/jobs_client.py"
+			],
+			[
+				"ready_for_com",
+				"src/py/minted/batch/ready_for_compit3d_processor.py"
+			],
+			[
+				"readyforom",
+				"src/py/minted/batch/ready_for_compit3d_processor.py"
+			],
+			[
+				"prod.yaml",
+				"fabconfig/minted_environments/prod.yaml"
+			],
+			[
+				"fabconfig/",
+				"fabconfig/minted_environments/qa3.yaml"
+			],
+			[
+				"test.yaml",
+				"fabconfig/minted_environments/qa_test.yaml"
+			],
+			[
+				"defaultfileupload",
+				"drupal/static/src/js/view/crowd_launch/default_file_upload.js"
+			],
+			[
+				"file_upload.ma",
+				"src/py/minted/templates/selflaunch/file_upload.mako"
+			],
+			[
+				"file_upload_overview",
+				"src/py/minted/templates/selflaunch/file_upload_overview.mako"
+			],
+			[
+				"switch_pro",
+				"src/py/minted/tools/switch_project_state.py"
+			],
+			[
+				"disable_frame",
+				"src/py/minted/tools/disable_frame_option_for_dimension.py"
+			],
+			[
+				"productkindattr",
+				"src/py/minted/model/product_kind_attribute.py"
+			],
+			[
+				"productattrpy",
+				"src/py/minted/model/product_attribute.py"
+			],
+			[
+				"productattributekin",
+				"src/py/minted/model/product_attribute_kind.py"
+			],
+			[
+				"src/py/minted/web/views/selflaunch/importer.py",
+				"src/py/minted/web/views/selflaunch/importer.py"
+			],
+			[
+				"templateshomedecortest",
+				"src/py/minted/tests/templates/product_details/home_decor_test.py"
+			],
+			[
+				"home_decor_pdp_test",
+				"src/py/minted/tests/unit/web/views/product_details/home_decor_pdp_test.py"
+			],
+			[
+				"homedecormako",
+				"src/py/minted/templates/product_details/home_decor_pdp.mako"
+			],
+			[
+				"art.mako",
+				"src/py/minted/templates/product_details/art.mako"
+			],
+			[
+				"crowdfileconf",
+				"src/py/minted/model/crowdlaunch_file_config.yml"
+			],
+			[
+				"art.py",
+				"src/py/minted/web/views/product_details/art.py"
+			],
+			[
+				"homedecorpdp",
+				"src/py/minted/web/views/product_details/home_decor_pdp.py"
+			],
+			[
+				"productattrkind",
+				"src/py/minted/model/product_attribute_kind.py"
+			],
+			[
+				"compitservi",
+				"src/py/minted/logic/selflaunch/compit_service.py"
+			],
+			[
+				"productkindcon",
+				"src/py/minted/model/product_kind_config.yml"
+			],
+			[
+				"qc.mako",
+				"src/py/minted/templates/selflaunch/qc_dashboard.mako"
+			],
+			[
+				"url_paths",
+				"src/py/minted/web/views/admin/url_paths.py"
+			],
+			[
+				"config/init",
+				"compit_3d/photoshop_action/config/__init__.py"
+			],
+			[
+				"config/__in",
+				"compit_3d/photoshop_action/config/__init__.py"
+			],
+			[
+				"conf.y",
+				"compit_3d/photoshop_action/config/conf.yaml"
+			],
+			[
+				"s3_util",
+				"compit_3d/photoshop_action/s3_util.py"
+			],
+			[
+				"s3confi",
+				"src/py/minted/config/s3config.py"
+			],
+			[
+				"base_file",
+				"compit_3d/photoshop_action/base_file_context.py"
+			],
+			[
+				"require",
+				"requirements.txt"
+			],
+			[
+				"validate_s3_im",
+				"src/py/minted/tools/validate_s3_images_for_compit_3d.py"
+			],
+			[
+				"sync_col",
+				"src/py/minted/tools/sync_colorways.py"
+			],
+			[
+				"validate_im",
+				"src/py/minted/tools/validate_s3_images.py"
+			],
+			[
+				"prodproj",
+				"src/py/minted/model/product_project.py"
+			],
+			[
+				"prodpr",
+				"drupal/static/src/js/model/product_project.js"
+			],
+			[
+				"asisprod",
+				"src/py/minted/model/as_is_product_file.py"
+			],
+			[
+				"hansel.",
+				"src/py/minted/adobe/jobs/hansel.py"
+			],
+			[
+				"hansel",
+				"src/py/minted/logic/selflaunch/hansel_service.py"
+			],
+			[
+				"migration_cm_00036",
+				"schema/ad-hoc/cm/migration_cm_00036.sql"
+			],
+			[
+				"toolsas_is",
+				"src/py/minted/tools/as_is_product_file_update.py"
+			],
+			[
+				"hansel_serv",
+				"src/py/minted/logic/selflaunch/hansel_service.py"
+			],
+			[
+				"hansel_pro",
+				"src/py/minted/batch/ready_for_hansel_processor.py"
+			],
+			[
+				"product_launch_timing_pb2",
+				"src/py/minted/logic/selflaunch/product_launch_timing_pb2.py"
+			],
+			[
+				"importer_test",
+				"src/py/minted/tests/web/views/selflaunch/importer_test.py"
+			],
+			[
+				"fixturesproject",
+				"src/py/minted/tests/fixtures/product_project.py"
+			],
+			[
+				"switchprojec",
+				"src/py/minted/tools/switch_project_state.py"
+			],
+			[
+				"constant",
+				"src/py/minted/model/constants.py"
+			],
+			[
+				"sku_gen",
+				"src/py/minted/logic/sku_generator.py"
+			],
+			[
+				"requireme",
+				"requirements.txt"
+			],
+			[
+				"common.y",
+				"fabconfig/common.yaml"
+			],
+			[
+				"prodprj",
+				"drupal/static/src/js/model/product_project.js"
+			],
+			[
+				"conf.yaml",
+				"fabconfig/common.yaml"
+			],
+			[
+				"utiljobs_cli",
+				"src/py/minted/util/jobs_client.py"
+			],
+			[
+				"state_mach",
+				"src/py/minted/logic/selflaunch/state_machine.py"
+			],
+			[
+				"ready3doc",
+				"src/py/minted/batch/ready_for_compit3d_processor.py"
+			],
+			[
+				"prod_poj",
+				"src/py/minted/model/product_project.py"
+			],
+			[
+				"modelprodkind",
+				"src/py/minted/model/product_kind.py"
+			],
+			[
+				"importer.py",
+				"src/py/minted/web/views/selflaunch/importer.py"
+			],
+			[
+				"project",
+				"src/py/minted/logic/selflaunch/project_writer.py"
+			],
+			[
+				"modelcommdesign",
+				"src/py/minted/model/community_designers.py"
+			],
+			[
+				"importertest",
+				"src/py/minted/tests/web/views/selflaunch/importer_test.py"
+			],
+			[
+				"filerequesttest",
+				"src/py/minted/tests/web/views/selflaunch/file_request_test.py"
+			],
+			[
+				"selflaunch_art_file_request",
+				"src/py/minted/templates/mail/selflaunch_art_file_request.html.mako"
+			],
+			[
+				"crowdlaunch_file_config",
+				"src/py/minted/model/crowdlaunch_file_config.yml"
+			],
+			[
+				"product_kind_con",
+				"src/py/minted/model/product_kind_config.yml"
+			],
+			[
+				"community_design",
+				"src/py/minted/model/community_designs.py"
+			],
+			[
+				"modelconstan",
+				"src/py/minted/model/constants.py"
+			],
+			[
+				"product_dimen",
+				"src/py/minted/model/product_dimension.py"
+			],
+			[
+				"constants",
+				"src/py/minted/model/constants.py"
+			],
+			[
+				"modeluser",
+				"src/py/minted/model/user.py"
+			],
+			[
+				"sync_co",
+				"src/py/minted/tools/sync_colorways.py"
+			],
+			[
+				"constants.py",
+				"src/py/minted/logic/constants.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 113.0,
+	"status_bar_visible": true
+}
